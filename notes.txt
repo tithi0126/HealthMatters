@@ -1,0 +1,4 @@
+add loading animation 
+
+different loading animation on each and every piller 
+different pages for each piller 
